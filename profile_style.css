@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-image:url("image2.jpg");
+    color:white;
+
+}
+
+a{
+    color:white;
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:1px solid wheat;
+}
+h1{
+    font: size 50px;
+}
+li{
+    display:inline;
+}
